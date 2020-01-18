@@ -29,6 +29,8 @@
     }
     .ilbc-menu-items .ilbc-form{
         width: auto !important;
+        margin-left: 0px !important;
+        margin-right: 0px !important;
         float: right !important;
         text-align: right !important;
     }
