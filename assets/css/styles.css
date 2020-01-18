@@ -2,10 +2,37 @@
     Created on : 11/01/2020, 10:41:53 PM
     Author     : Jose Luis Espiritu
 */
+/*ESTILOS PARA PC ESCRITORIO*/
+/*MENU*/
+.ilbc-menu{
+    border-bottom: deepskyblue solid 4px;
+    background-color: white;
+}
 
-@media only screen and (max-width: 600px) {
-    .buscador{
+.ilbc-menu img{
+    height: 60px; 
+    width: auto;
+    margin-left: 45px;
+    margin-right: 25px;
+}
+
+/*ESTILOS PARA DISPOSITIVOS MOVILES*/
+@media only screen and (max-width: 1080px) {
+    /*MENU*/
+    .ilbc-menu-items{
+        text-align: center;
+    }
+    .ilbc-menu img{
+        height: 50px; 
+        width: auto;
+    }
+    .ilbc-menu-items .ilbc-form{
+        float: right !important;
+        text-align: right !important;
+    }
+    .ilbc-buscador {
+        align-items: center !important;
         width: auto !important;
         margin-right: 10px !important;
-    }
-} 
+    } 
+}
