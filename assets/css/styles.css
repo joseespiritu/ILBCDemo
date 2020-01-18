@@ -32,11 +32,11 @@
         margin-left: 0px !important;
         margin-right: 0px !important;
         float: right !important;
-        text-align: right !important;
+        display: inline-table !important;
     }
     .ilbc-buscador {
         align-items: center !important;
         width: auto !important;
         margin-right: 10px !important;
-    } 
+    }
 }
