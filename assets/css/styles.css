@@ -1,0 +1,11 @@
+/* 
+    Created on : 11/01/2020, 10:41:53 PM
+    Author     : Jose Luis Espiritu
+*/
+
+@media only screen and (max-width: 600px) {
+    .buscador{
+        width: auto !important;
+        margin-right: 10px !important;
+    }
+} 
