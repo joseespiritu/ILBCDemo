@@ -28,6 +28,7 @@
         margin-left: 5px !important;
     }
     .ilbc-menu-items .ilbc-form{
+        width: auto !important;
         float: right !important;
         text-align: right !important;
     }
@@ -36,11 +37,4 @@
         width: auto !important;
         margin-right: 10px !important;
     } 
-}
-
-
-@media only screen and (max-width: 200px) {
-    .ilbc-menu-items .ilbc-form{
-        width: 70px !important;
-    }
 }
