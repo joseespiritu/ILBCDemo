@@ -45,7 +45,18 @@
     .ilbc-form{
         display: none !important;
     }
+    .ilbc-container-nosotros h2{
+        margin-top: 15px !important;
+    }
+    .ilbc-container-nosotros img{
+        width: 100px !important;
+        height: 80px !important;
+    }
     .ilbc-nosotros{
         text-align: justify !important;
+        margin-top: 5px !important;
+        margin-right: 5px !important;
+        margin-left: 5px !important;
+        margin-bottom: 30px !important;
     }
 }
