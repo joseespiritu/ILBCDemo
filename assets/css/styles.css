@@ -16,12 +16,48 @@
     margin-right: 25px;
 }
 
+.ilbc-contenedor{
+    margin-left: 0px; 
+    margin-right: 0px; 
+    padding-left: 0px; 
+    padding-right: 0px;
+}
+
+.ilbc-titulo{
+    margin-top: 30px; 
+    font-weight: bold;
+}
+
 .ilbc-container-principal{
     margin-top:80px;
 }
 
 .ilbc-container-nosotros{
     background: linear-gradient(to right, #56ccf2, #2f80ed);
+}
+
+.ilbc-container-consultora{
+    background: linear-gradient(to right, #373b44, #4286f4);
+}
+
+.ilbc-container-remanufactura{
+    background: linear-gradient(to right, #667db6, #0082c8, #0082c8, #667db6);
+}
+
+.ilbc-container-soporte {
+    background: linear-gradient(to right, #485563, #29323c);
+}
+
+.ilbc-container-electronica{
+    background: linear-gradient(to right, #16222a, #3a6073);
+}
+
+.ilbc-container-desarrollo{
+    background: linear-gradient(to right, #4b6cb7, #182848);
+}
+
+.ilbc-container-redes{
+    background: linear-gradient(to right, #005c97, #363795);
 }
 
 .ilbc-conatiner-footer{
@@ -52,7 +88,7 @@
         width: 100px !important;
         height: 80px !important;
     }
-    .ilbc-nosotros{
+    .ilbc-descripcion {
         text-align: justify !important;
         margin-top: 5px !important;
         margin-right: 5px !important;
